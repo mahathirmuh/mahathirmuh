@@ -1,10 +1,16 @@
 # Hi there! 👋 I'm Mahathir Muhammad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+Specialist;UI%2FUX+Expert+%26+Security+Specialist;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Specialist;UI%2FUX+Expert+%26+Security+Specialist;DevOps+Engineer+%26+Database+Architect;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Code+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
 </div>
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a **Full Stack Developer Specialist** passionate about creating elegant, secure, and high-performance web applications. I combine technical expertise with design sensibility to deliver exceptional user experiences.
 
@@ -13,6 +19,12 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 - 🏗️ **Database Architect**: Designing optimized relational and non-relational databases
 - ⚙️ **DevOps Engineer**: Building robust CI/CD pipelines and cloud infrastructure
 - 🌐 **Tech Polyglot**: Adapting quickly to any technology stack
+
+<br clear="both" />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+</div>
 
 ## 💻 Tech Stack
 
@@ -74,15 +86,28 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathirmuh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mahathirmuh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathirmuh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Focus
@@ -105,11 +130,15 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yare_yare2">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
 
 ## 💡 Fun Facts
@@ -125,7 +154,9 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mahathirmuh&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/mahathirmuh?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/mahathirmuh?label=Stars&style=for-the-badge&color=yellow" />
 </div>
 
 <div align="center">
@@ -135,4 +166,7 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
->>>>>>> 5eecfd4 (docs: add comprehensive README with profile and tech stack details)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</div>
