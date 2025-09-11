@@ -87,34 +87,34 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathirmuh&bg_color=gradient&color=00d2d3&line=ff9500&point=9c88ff&area=true&hide_border=true&theme=react" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathirmuh&bg_color=gradient&color=ffb6c1&line=ffe4e1&point=ffffff&area=true&hide_border=true&theme=react" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mahathirmuh&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,00d2d3,ff9500&title_color=fff&text_color=fff&icon_color=9c88ff" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahathirmuh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,ffffff,ffb6c1&title_color=333&text_color=555&icon_color=ffb6c1" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathirmuh&theme=synthwave&hide_border=true&background=45,00d2d3,ff9500&stroke=fff&ring=9c88ff&fire=9c88ff&currStreakLabel=fff" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathirmuh&theme=radical&hide_border=true&background=45,ffffff,ffb6c1&stroke=333&ring=ffb6c1&fire=ffb6c1&currStreakLabel=333" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=synthwave&hide_border=true&langs_count=10&bg_color=30,00d2d3,ff9500&title_color=fff&text_color=fff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=30,ffffff,ffb6c1&title_color=333&text_color=555" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&bg_color=2a0845" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=radical&no-frame=true&no-bg=false&margin-w=4&bg_color=ffffff" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF9500&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+architectures;Implementing+advanced+security+patterns;Mastering+cloud-native+technologies;Optimizing+database+performance;Creating+robust+API+ecosystems" alt="Current Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+architectures;Implementing+advanced+security+patterns;Mastering+cloud-native+technologies;Optimizing+database+performance;Creating+robust+API+ecosystems" alt="Current Focus" />
 </div>
 
 - 🔥 **Microservices Architecture**: Designing distributed systems with Docker & Kubernetes
@@ -188,7 +188,7 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 ## 🎌 Anime & Otaku Life
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=00D2D3&center=true&vCenter=true&width=600&lines=Anime+Enthusiast+%F0%9F%8E%8C;Coding+by+Day%2C+Watching+Anime+by+Night;Debugging+Code+%26+Plot+Holes;Otaku+Developer+Life+%F0%9F%9A%80" alt="Anime Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=FFB6C1&center=true&vCenter=true&width=600&lines=Anime+Enthusiast+%F0%9F%8E%8C;Coding+by+Day%2C+Watching+Anime+by+Night;Debugging+Code+%26+Plot+Holes;Otaku+Developer+Life+%F0%9F%9A%80" alt="Anime Typing" />
 </div>
 
 <div align="center">
@@ -235,7 +235,7 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 ## 💡 Fun Facts & Coding Philosophy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=9C88FF&center=true&vCenter=true&width=500&lines=Clean+Code+%3D+Happy+Developer;Security+First%2C+Always;Performance+Matters;Documentation+is+Love;Anime+%2B+Code+%3D+Perfect+Life" alt="Philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Clean+Code+%3D+Happy+Developer;Security+First%2C+Always;Performance+Matters;Documentation+is+Love;Anime+%2B+Code+%3D+Perfect+Life" alt="Philosophy" />
 </div>
 
 <table>
@@ -272,9 +272,9 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
   <img src="https://img.shields.io/badge/OS-Windows%2011-0078D4?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme-Synthwave%20Neon-00D2D3?style=flat-square&logo=rainbow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme-Light%20Pink%20Gradient-FFB6C1?style=flat-square&logo=rainbow&logoColor=white" />
   <img src="https://img.shields.io/badge/Font-Fira%20Code-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wallpaper-Anime_Aesthetic-FF69B4?style=flat-square&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wallpaper-Anime_Aesthetic-FFB6C1?style=flat-square&logo=crunchyroll&logoColor=white" />
   <img src="https://img.shields.io/badge/Music-Anime_OST-9C27B0?style=flat-square&logo=spotify&logoColor=white" />
 </div>
 
@@ -318,7 +318,7 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
     <summary>🐍 Play Snake Game! (Click to expand)</summary>
     <br>
     <div align="center">
-      <canvas id="snakeGame" width="400" height="400" style="border: 3px solid #00d2d3; background: linear-gradient(135deg, #ff9500 0%, #9c88ff 100%); border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 210, 211, 0.4);"></canvas>
+      <canvas id="snakeGame" width="400" height="400" style="border: 3px solid #ffb6c1; background: linear-gradient(135deg, #ffffff 0%, #ffe4e1 100%); border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 182, 193, 0.3);"></canvas>
       <br><br>
       <p style="color: #61dafb; font-family: 'Fira Code', monospace;">Use WASD or Arrow Keys to play! 🎮</p>
       <p style="color: #38bdae; font-family: 'Fira Code', monospace; font-size: 14px;">Score: <span id="score">0</span></p>
@@ -345,8 +345,8 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
       
       function clearCanvas() {
         const gradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
-        gradient.addColorStop(0, '#ff9500');
-        gradient.addColorStop(1, '#9c88ff');
+        gradient.addColorStop(0, '#ffffff');
+        gradient.addColorStop(1, '#ffe4e1');
         ctx.fillStyle = gradient;
         ctx.fillRect(0, 0, canvas.width, canvas.height);
       }
@@ -357,8 +357,8 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
             segment.x * gridSize + gridSize/2, segment.y * gridSize + gridSize/2, 0,
             segment.x * gridSize + gridSize/2, segment.y * gridSize + gridSize/2, gridSize/2
           );
-          gradient.addColorStop(0, index === 0 ? '#00d2d3' : '#ff9500');
-          gradient.addColorStop(1, index === 0 ? '#00a8a9' : '#e6851f');
+          gradient.addColorStop(0, index === 0 ? '#ffb6c1' : '#ffe4e1');
+          gradient.addColorStop(1, index === 0 ? '#ff91a4' : '#ffc0cb');
           ctx.fillStyle = gradient;
           ctx.fillRect(segment.x * gridSize + 1, segment.y * gridSize + 1, gridSize - 2, gridSize - 2);
           ctx.strokeStyle = '#fff';
@@ -385,8 +385,8 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
           food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, 0,
           food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, gridSize/2
         );
-        gradient.addColorStop(0, '#9c88ff');
-        gradient.addColorStop(1, '#00d2d3');
+        gradient.addColorStop(0, '#ffb6c1');
+        gradient.addColorStop(1, '#ffffff');
         ctx.fillStyle = gradient;
         ctx.beginPath();
         ctx.arc(food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, gridSize/2 - 2, 0, 2 * Math.PI);
@@ -443,5 +443,5 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2d3,50:ff9500,100:9c88ff&height=80&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffc0cb,100:ff69b4&height=80&section=footer&animation=fadeIn" width="100%" />
 </div>
