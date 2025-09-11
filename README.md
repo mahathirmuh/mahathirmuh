@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mahathir Muhammad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Specialist;UI%2FUX+Expert+%26+Security+Specialist;DevOps+Engineer+%26+Database+Architect;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Code+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Specialist;Backend+Specialist+%26+Security+Expert;DevOps+Engineer+%26+Database+Architect;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Code+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,13 +12,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm a **Full Stack Developer Specialist** passionate about creating elegant, secure, and high-performance web applications. I combine technical expertise with design sensibility to deliver exceptional user experiences.
+I'm a **Full Stack Developer Specialist** passionate about creating elegant, secure, and high-performance web applications. I combine technical expertise with backend architecture to deliver exceptional solutions.
 
-- 🎨 **UI/UX Expert**: Crafting intuitive, responsive, and visually stunning interfaces
+- 🔧 **Backend Specialist**: Building scalable server-side architectures and APIs
 - 🔒 **Security Specialist**: Implementing zero-trust principles and OWASP guidelines
 - 🏗️ **Database Architect**: Designing optimized relational and non-relational databases
 - ⚙️ **DevOps Engineer**: Building robust CI/CD pipelines and cloud infrastructure
 - 🌐 **Tech Polyglot**: Adapting quickly to any technology stack
+- 🎯 **Focus Areas**: Backend Architecture, API Development, Infrastructure & Automation
 
 <br clear="both" />
 
@@ -86,45 +87,84 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathirmuh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathirmuh&bg_color=gradient&color=00d2d3&line=ff9500&point=9c88ff&area=true&hide_border=true&theme=react" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mahathirmuh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahathirmuh&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,00d2d3,ff9500&title_color=fff&text_color=fff&icon_color=9c88ff" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathirmuh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathirmuh&theme=synthwave&hide_border=true&background=45,00d2d3,ff9500&stroke=fff&ring=9c88ff&fire=9c88ff&currStreakLabel=fff" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=synthwave&hide_border=true&langs_count=10&bg_color=30,00d2d3,ff9500&title_color=fff&text_color=fff" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&bg_color=2a0845" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Focus
 
-- 🔥 Building scalable microservices architectures
-- 🎨 Exploring advanced UI/UX design patterns
-- 🚀 Implementing CI/CD pipelines and DevOps practices
-- 🧠 Learning cutting-edge technologies and frameworks
-- 📱 Developing progressive web applications (PWAs)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF9500&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+architectures;Implementing+advanced+security+patterns;Mastering+cloud-native+technologies;Optimizing+database+performance;Creating+robust+API+ecosystems" alt="Current Focus" />
+</div>
 
-## 🏆 Achievements
+- 🔥 **Microservices Architecture**: Designing distributed systems with Docker & Kubernetes
+- 🔒 **Advanced Security**: Implementing OAuth 2.0, JWT, and zero-trust architectures
+- ☁️ **Cloud Native**: Mastering AWS, serverless functions, and infrastructure as code
+- 🚀 **DevOps Excellence**: Building automated CI/CD pipelines with monitoring
+- 📊 **Performance Optimization**: Database indexing, caching strategies, and load balancing
+- 🧠 **AI Integration**: Exploring machine learning APIs and intelligent automation
 
-- ✅ **Performance Optimization**: Improved application load times by 60%
-- ✅ **Security Implementation**: Zero security vulnerabilities in production
-- ✅ **Code Quality**: Maintained 95%+ test coverage across projects
-- ✅ **User Experience**: Achieved 98% user satisfaction scores
-- ✅ **Team Leadership**: Mentored 10+ junior developers
+## 🏆 Achievements & Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Performance-+60%25_Speed-brightgreen?style=for-the-badge&logo=speedtest&logoColor=white" />
+        <br><sub><b>Load Time Optimization</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Security-Zero_Vulnerabilities-red?style=for-the-badge&logo=security&logoColor=white" />
+        <br><sub><b>Production Security</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Coverage-95%25+-blue?style=for-the-badge&logo=codecov&logoColor=white" />
+        <br><sub><b>Test Coverage</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+        <br><sub><b>System Reliability</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Mentored-15+_Developers-orange?style=for-the-badge&logo=github&logoColor=white" />
+        <br><sub><b>Team Leadership</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Projects-50+_Delivered-purple?style=for-the-badge&logo=rocket&logoColor=white" />
+        <br><sub><b>Successful Deployments</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📈 Key Performance Indicators
+- 🚀 **API Response Time**: Average 150ms across all endpoints
+- 🔄 **Deployment Frequency**: 3-5 releases per week with zero downtime
+- 🛡️ **Security Score**: A+ rating on security audits
+- 📊 **Code Quality**: Sonarqube rating of 4.8/5.0
+- 🎯 **Bug Resolution**: 95% of issues resolved within 24 hours
 
 ## 📫 Let's Connect
 
@@ -138,18 +178,128 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=ffffff" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
 
-## 💡 Fun Facts
+## 🎌 Anime & Otaku Life
 
-- 🎵 I code better with lo-fi music
-- 🏃‍♂️ Jogging enthusiast - Running helps me clear my mind and think through complex problems
-- 🏸 Badminton player - Love the strategic thinking and quick reflexes the sport demands
-- ♟️ Chess player - Strategic thinking on the board translates to better problem-solving in code
-- 🌱 Always learning - Currently exploring Web3 and blockchain technologies
-- 🎮 Gaming helps me think creatively about problem-solving
-- 📚 I read tech blogs and documentation for fun
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=00D2D3&center=true&vCenter=true&width=600&lines=Anime+Enthusiast+%F0%9F%8E%8C;Coding+by+Day%2C+Watching+Anime+by+Night;Debugging+Code+%26+Plot+Holes;Otaku+Developer+Life+%F0%9F%9A%80" alt="Anime Typing" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Anime Coding" />
+</div>
+
+### 🌸 Current Favorites
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📺 Currently Watching</h4>
+      <ul>
+        <li>🔥 <b>Jujutsu Kaisen</b> - Domain Expansion: Infinite Debugging</li>
+        <li>⚔️ <b>Demon Slayer</b> - Breathing Technique: Code Optimization</li>
+        <li>🏐 <b>Haikyuu!!</b> - Teamwork makes the dream work</li>
+        <li>🧠 <b>Death Note</b> - Strategic thinking for architecture</li>
+        <li>🎯 <b>Attack on Titan</b> - Fighting bugs like titans</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🏆 All-Time Favorites</h4>
+      <ul>
+        <li>👑 <b>One Piece</b> - The journey to become Pirate King of Code</li>
+        <li>🥊 <b>One Punch Man</b> - One commit to fix all bugs</li>
+        <li>🔬 <b>Dr. Stone</b> - Science + Technology = Magic</li>
+        <li>🎮 <b>No Game No Life</b> - Life is just a complex algorithm</li>
+        <li>🌟 <b>Your Name</b> - Beautiful code, beautiful stories</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🎭 Anime-Inspired Coding
+<div align="center">
+  <img src="https://img.shields.io/badge/Coding_Style-Shounen_Protagonist-FF6B6B?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debug_Mode-Ultra_Instinct-9C27B0?style=for-the-badge&logo=dragonball&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commit_Message-Anime_References-FF9800?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Anime Programming" />
+</div>
+
+## 💡 Fun Facts & Coding Philosophy
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=9C88FF&center=true&vCenter=true&width=500&lines=Clean+Code+%3D+Happy+Developer;Security+First%2C+Always;Performance+Matters;Documentation+is+Love;Anime+%2B+Code+%3D+Perfect+Life" alt="Philosophy" />
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🎯 Personal Interests</h4>
+      <ul>
+        <li>🎌 <b>Anime Binge</b>: 3 episodes = 1 feature complete</li>
+        <li>🎵 <b>Anime OST Coding</b>: Epic soundtracks fuel productivity</li>
+        <li>🏃‍♂️ <b>Running</b>: 5K daily runs clear my debugging mind</li>
+        <li>🏸 <b>Badminton</b>: Quick reflexes for quick bug fixes</li>
+        <li>♟️ <b>Chess Master</b>: Strategic thinking = Better architecture</li>
+        <li>🎮 <b>Gaming</b>: Problem-solving in virtual worlds</li>
+        <li>📚 <b>Manga Reader</b>: Visual storytelling inspires UI design</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>⚡ Coding Habits</h4>
+      <ul>
+        <li>🍵 <b>Matcha Powered</b>: Japanese tea for Japanese inspiration</li>
+        <li>🌙 <b>Night Owl</b>: Anime episodes + coding after midnight</li>
+        <li>🔄 <b>Refactor Addict</b>: Power up code like anime training arcs</li>
+        <li>📝 <b>Comment Everything</b>: Detailed like anime plot explanations</li>
+        <li>🧪 <b>Test First</b>: Red, Green, Refactor, Repeat (like anime battles)</li>
+        <li>🚀 <b>Deploy Friday</b>: Living dangerously since 2020</li>
+        <li>🎌 <b>Anime Breaks</b>: 25min coding, 5min anime clips</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Coding Environment
+<div align="center">
+  <img src="https://img.shields.io/badge/OS-Windows%2011-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme-Synthwave%20Neon-00D2D3?style=flat-square&logo=rainbow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Font-Fira%20Code-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wallpaper-Anime_Aesthetic-FF69B4?style=flat-square&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music-Anime_OST-9C27B0?style=flat-square&logo=spotify&logoColor=white" />
+</div>
+
+### 🎭 Anime Coding Quotes
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100" />
+        <br><i>"I'll become the Hokage of Developers!"</i>
+        <br><sub>- Naruto Debugging Style</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="100" />
+        <br><i>"Plus Ultra Coding!"</i>
+        <br><sub>- My Hero Academia Approach</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif" width="100" />
+        <br><i>"This code... it's over 9000!"</i>
+        <br><sub>- Dragon Ball Performance</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -168,7 +318,7 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
     <summary>🐍 Play Snake Game! (Click to expand)</summary>
     <br>
     <div align="center">
-      <canvas id="snakeGame" width="400" height="400" style="border: 2px solid #61dafb; background-color: #1a1b27; border-radius: 10px;"></canvas>
+      <canvas id="snakeGame" width="400" height="400" style="border: 3px solid #00d2d3; background: linear-gradient(135deg, #ff9500 0%, #9c88ff 100%); border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 210, 211, 0.4);"></canvas>
       <br><br>
       <p style="color: #61dafb; font-family: 'Fira Code', monospace;">Use WASD or Arrow Keys to play! 🎮</p>
       <p style="color: #38bdae; font-family: 'Fira Code', monospace; font-size: 14px;">Score: <span id="score">0</span></p>
@@ -194,14 +344,26 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
       }
       
       function clearCanvas() {
-        ctx.fillStyle = '#1a1b27';
+        const gradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
+        gradient.addColorStop(0, '#ff9500');
+        gradient.addColorStop(1, '#9c88ff');
+        ctx.fillStyle = gradient;
         ctx.fillRect(0, 0, canvas.width, canvas.height);
       }
       
       function drawSnake() {
-        ctx.fillStyle = '#61dafb';
-        snake.forEach(segment => {
-          ctx.fillRect(segment.x * gridSize, segment.y * gridSize, gridSize - 2, gridSize - 2);
+        snake.forEach((segment, index) => {
+          const gradient = ctx.createRadialGradient(
+            segment.x * gridSize + gridSize/2, segment.y * gridSize + gridSize/2, 0,
+            segment.x * gridSize + gridSize/2, segment.y * gridSize + gridSize/2, gridSize/2
+          );
+          gradient.addColorStop(0, index === 0 ? '#00d2d3' : '#ff9500');
+          gradient.addColorStop(1, index === 0 ? '#00a8a9' : '#e6851f');
+          ctx.fillStyle = gradient;
+          ctx.fillRect(segment.x * gridSize + 1, segment.y * gridSize + 1, gridSize - 2, gridSize - 2);
+          ctx.strokeStyle = '#fff';
+          ctx.lineWidth = 1;
+          ctx.strokeRect(segment.x * gridSize + 1, segment.y * gridSize + 1, gridSize - 2, gridSize - 2);
         });
       }
       
@@ -219,8 +381,19 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
       }
       
       function drawFood() {
-        ctx.fillStyle = '#ff6b6b';
-        ctx.fillRect(food.x * gridSize, food.y * gridSize, gridSize - 2, gridSize - 2);
+        const gradient = ctx.createRadialGradient(
+          food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, 0,
+          food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, gridSize/2
+        );
+        gradient.addColorStop(0, '#9c88ff');
+        gradient.addColorStop(1, '#00d2d3');
+        ctx.fillStyle = gradient;
+        ctx.beginPath();
+        ctx.arc(food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, gridSize/2 - 2, 0, 2 * Math.PI);
+        ctx.fill();
+        ctx.strokeStyle = '#fff';
+        ctx.lineWidth = 2;
+        ctx.stroke();
       }
       
       function generateFood() {
@@ -270,5 +443,5 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2d3,50:ff9500,100:9c88ff&height=80&section=footer&animation=fadeIn" width="100%" />
 </div>
