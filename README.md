@@ -87,34 +87,34 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathirmuh&bg_color=gradient&color=ffb6c1&line=ffe4e1&point=ffffff&area=true&hide_border=true&theme=react" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahathirmuh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mahathirmuh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,ffffff,ffb6c1&title_color=333&text_color=555&icon_color=ffb6c1" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahathirmuh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathirmuh&theme=radical&hide_border=true&background=45,ffffff,ffb6c1&stroke=333&ring=ffb6c1&fire=ffb6c1&currStreakLabel=333" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathirmuh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=30,ffffff,ffb6c1&title_color=333&text_color=555" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=radical&no-frame=true&no-bg=false&margin-w=4&bg_color=ffffff" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+architectures;Implementing+advanced+security+patterns;Mastering+cloud-native+technologies;Optimizing+database+performance;Creating+robust+API+ecosystems" alt="Current Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+architectures;Implementing+advanced+security+patterns;Mastering+cloud-native+technologies;Optimizing+database+performance;Creating+robust+API+ecosystems" alt="Current Focus" />
 </div>
 
 - 🔥 **Microservices Architecture**: Designing distributed systems with Docker & Kubernetes
@@ -185,57 +185,10 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
 
-## 🎌 Anime & Otaku Life
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=FFB6C1&center=true&vCenter=true&width=600&lines=Anime+Enthusiast+%F0%9F%8E%8C;Coding+by+Day%2C+Watching+Anime+by+Night;Debugging+Code+%26+Plot+Holes;Otaku+Developer+Life+%F0%9F%9A%80" alt="Anime Typing" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Anime Coding" />
-</div>
-
-### 🌸 Current Favorites
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📺 Currently Watching</h4>
-      <ul>
-        <li>🔥 <b>Jujutsu Kaisen</b> - Domain Expansion: Infinite Debugging</li>
-        <li>⚔️ <b>Demon Slayer</b> - Breathing Technique: Code Optimization</li>
-        <li>🏐 <b>Haikyuu!!</b> - Teamwork makes the dream work</li>
-        <li>🧠 <b>Death Note</b> - Strategic thinking for architecture</li>
-        <li>🎯 <b>Attack on Titan</b> - Fighting bugs like titans</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🏆 All-Time Favorites</h4>
-      <ul>
-        <li>👑 <b>One Piece</b> - The journey to become Pirate King of Code</li>
-        <li>🥊 <b>One Punch Man</b> - One commit to fix all bugs</li>
-        <li>🔬 <b>Dr. Stone</b> - Science + Technology = Magic</li>
-        <li>🎮 <b>No Game No Life</b> - Life is just a complex algorithm</li>
-        <li>🌟 <b>Your Name</b> - Beautiful code, beautiful stories</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### 🎭 Anime-Inspired Coding
-<div align="center">
-  <img src="https://img.shields.io/badge/Coding_Style-Shounen_Protagonist-FF6B6B?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debug_Mode-Ultra_Instinct-9C27B0?style=for-the-badge&logo=dragonball&logoColor=white" />
-  <img src="https://img.shields.io/badge/Commit_Message-Anime_References-FF9800?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Anime Programming" />
-</div>
-
 ## 💡 Fun Facts & Coding Philosophy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Clean+Code+%3D+Happy+Developer;Security+First%2C+Always;Performance+Matters;Documentation+is+Love;Anime+%2B+Code+%3D+Perfect+Life" alt="Philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Clean+Code+%3D+Happy+Developer;Security+First%2C+Always;Performance+Matters;Documentation+is+Love" alt="Philosophy" />
 </div>
 
 <table>
@@ -243,25 +196,23 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
     <td width="50%">
       <h4>🎯 Personal Interests</h4>
       <ul>
-        <li>🎌 <b>Anime Binge</b>: 3 episodes = 1 feature complete</li>
-        <li>🎵 <b>Anime OST Coding</b>: Epic soundtracks fuel productivity</li>
+        <li>🎵 <b>Lo-fi Coding</b>: Music fuels my productivity</li>
         <li>🏃‍♂️ <b>Running</b>: 5K daily runs clear my debugging mind</li>
         <li>🏸 <b>Badminton</b>: Quick reflexes for quick bug fixes</li>
         <li>♟️ <b>Chess Master</b>: Strategic thinking = Better architecture</li>
         <li>🎮 <b>Gaming</b>: Problem-solving in virtual worlds</li>
-        <li>📚 <b>Manga Reader</b>: Visual storytelling inspires UI design</li>
+        <li>📚 <b>Tech Reader</b>: Documentation is my bedtime story</li>
       </ul>
     </td>
     <td width="50%">
       <h4>⚡ Coding Habits</h4>
       <ul>
-        <li>🍵 <b>Matcha Powered</b>: Japanese tea for Japanese inspiration</li>
-        <li>🌙 <b>Night Owl</b>: Anime episodes + coding after midnight</li>
-        <li>🔄 <b>Refactor Addict</b>: Power up code like anime training arcs</li>
-        <li>📝 <b>Comment Everything</b>: Detailed like anime plot explanations</li>
-        <li>🧪 <b>Test First</b>: Red, Green, Refactor, Repeat (like anime battles)</li>
+        <li>☕ <b>Coffee Driven</b>: 4 cups = 1 feature complete</li>
+        <li>🌙 <b>Night Owl</b>: Best code happens after midnight</li>
+        <li>🔄 <b>Refactor Addict</b>: If it works, make it better</li>
+        <li>📝 <b>Comment Everything</b>: Future me will thank present me</li>
+        <li>🧪 <b>Test First</b>: Red, Green, Refactor, Repeat</li>
         <li>🚀 <b>Deploy Friday</b>: Living dangerously since 2020</li>
-        <li>🎌 <b>Anime Breaks</b>: 25min coding, 5min anime clips</li>
       </ul>
     </td>
   </tr>
@@ -272,33 +223,8 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
   <img src="https://img.shields.io/badge/OS-Windows%2011-0078D4?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme-Light%20Pink%20Gradient-FFB6C1?style=flat-square&logo=rainbow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme-Tokyo%20Night-7aa2f7?style=flat-square" />
   <img src="https://img.shields.io/badge/Font-Fira%20Code-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wallpaper-Anime_Aesthetic-FFB6C1?style=flat-square&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/Music-Anime_OST-9C27B0?style=flat-square&logo=spotify&logoColor=white" />
-</div>
-
-### 🎭 Anime Coding Quotes
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100" />
-        <br><i>"I'll become the Hokage of Developers!"</i>
-        <br><sub>- Naruto Debugging Style</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="100" />
-        <br><i>"Plus Ultra Coding!"</i>
-        <br><sub>- My Hero Academia Approach</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif" width="100" />
-        <br><i>"This code... it's over 9000!"</i>
-        <br><sub>- Dragon Ball Performance</sub>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -318,157 +244,107 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
     <summary>🐍 Play Snake Game! (Click to expand)</summary>
     <br>
     <div align="center">
-      <canvas id="snakeGame" width="400" height="400" style="border: 3px solid #ffb6c1; background: linear-gradient(135deg, #ffffff 0%, #ffe4e1 100%); border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 182, 193, 0.3);"></canvas>
+      <canvas id="snakeGame" width="400" height="400" style="border: 2px solid #61dafb; background-color: #1a1b27; border-radius: 10px;"></canvas>
       <br><br>
       <p style="color: #61dafb; font-family: 'Fira Code', monospace;">Use WASD or Arrow Keys to play! 🎮</p>
       <p style="color: #38bdae; font-family: 'Fira Code', monospace; font-size: 14px;">Score: <span id="score">0</span></p>
     </div>
     <script>
-      // Wait for DOM to be fully loaded
-      document.addEventListener('DOMContentLoaded', function() {
-        const canvas = document.getElementById('snakeGame');
-        if (!canvas) return;
-        
-        const ctx = canvas.getContext('2d');
-        const gridSize = 20;
-        const tileCount = canvas.width / gridSize;
-        
-        let snake = [{x: 10, y: 10}];
-        let food = {x: 15, y: 15};
-        let dx = 0;
-        let dy = 0;
-        let score = 0;
-        let gameRunning = false;
-        
-        function drawGame() {
-          if (!gameRunning && (dx !== 0 || dy !== 0)) {
-            gameRunning = true;
-          }
-          
-          if (gameRunning) {
-            clearCanvas();
-            moveSnake();
-            drawSnake();
-            drawFood();
-            checkGameEnd();
-          } else {
-            clearCanvas();
-            drawSnake();
-            drawFood();
-          }
-        }
-        
-        function clearCanvas() {
-          const gradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
-          gradient.addColorStop(0, '#ffffff');
-          gradient.addColorStop(1, '#ffe4e1');
-          ctx.fillStyle = gradient;
-          ctx.fillRect(0, 0, canvas.width, canvas.height);
-        }
-        
-        function drawSnake() {
-          snake.forEach((segment, index) => {
-            const gradient = ctx.createRadialGradient(
-              segment.x * gridSize + gridSize/2, segment.y * gridSize + gridSize/2, 0,
-              segment.x * gridSize + gridSize/2, segment.y * gridSize + gridSize/2, gridSize/2
-            );
-            gradient.addColorStop(0, index === 0 ? '#ffb6c1' : '#ffe4e1');
-            gradient.addColorStop(1, index === 0 ? '#ff91a4' : '#ffc0cb');
-            ctx.fillStyle = gradient;
-            ctx.fillRect(segment.x * gridSize + 1, segment.y * gridSize + 1, gridSize - 2, gridSize - 2);
-            ctx.strokeStyle = '#fff';
-            ctx.lineWidth = 1;
-            ctx.strokeRect(segment.x * gridSize + 1, segment.y * gridSize + 1, gridSize - 2, gridSize - 2);
-          });
-        }
-        
-        function moveSnake() {
-          const head = {x: snake[0].x + dx, y: snake[0].y + dy};
-          snake.unshift(head);
-          
-          if (head.x === food.x && head.y === food.y) {
-            score += 10;
-            const scoreElement = document.getElementById('score');
-            if (scoreElement) scoreElement.textContent = score;
-            generateFood();
-          } else {
-            snake.pop();
-          }
-        }
-        
-        function drawFood() {
-          const gradient = ctx.createRadialGradient(
-            food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, 0,
-            food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, gridSize/2
-          );
-          gradient.addColorStop(0, '#ffb6c1');
-          gradient.addColorStop(1, '#ffffff');
-          ctx.fillStyle = gradient;
-          ctx.beginPath();
-          ctx.arc(food.x * gridSize + gridSize/2, food.y * gridSize + gridSize/2, gridSize/2 - 2, 0, 2 * Math.PI);
-          ctx.fill();
-          ctx.strokeStyle = '#fff';
-          ctx.lineWidth = 2;
-          ctx.stroke();
-        }
-        
-        function generateFood() {
-          do {
-            food = {
-              x: Math.floor(Math.random() * tileCount),
-              y: Math.floor(Math.random() * tileCount)
-            };
-          } while (snake.some(segment => segment.x === food.x && segment.y === food.y));
-        }
-        
-        function checkGameEnd() {
-          const head = snake[0];
-          if (head.x < 0 || head.x >= tileCount || head.y < 0 || head.y >= tileCount) {
-            resetGame();
-            return;
-          }
-          
-          for (let i = 1; i < snake.length; i++) {
-            if (head.x === snake[i].x && head.y === snake[i].y) {
-              resetGame();
-              return;
-            }
-          }
-        }
-        
-        function resetGame() {
-          snake = [{x: 10, y: 10}];
-          dx = 0;
-          dy = 0;
-          score = 0;
-          gameRunning = false;
-          const scoreElement = document.getElementById('score');
-          if (scoreElement) scoreElement.textContent = score;
-          generateFood();
-        }
-        
-        document.addEventListener('keydown', (e) => {
-          e.preventDefault();
-          if (e.key === 'ArrowUp' || e.key === 'w' || e.key === 'W') {
-            if (dy !== 1) { dx = 0; dy = -1; }
-          } else if (e.key === 'ArrowDown' || e.key === 's' || e.key === 'S') {
-            if (dy !== -1) { dx = 0; dy = 1; }
-          } else if (e.key === 'ArrowLeft' || e.key === 'a' || e.key === 'A') {
-            if (dx !== 1) { dx = -1; dy = 0; }
-          } else if (e.key === 'ArrowRight' || e.key === 'd' || e.key === 'D') {
-            if (dx !== -1) { dx = 1; dy = 0; }
-          }
+      const canvas = document.getElementById('snakeGame');
+      const ctx = canvas.getContext('2d');
+      const gridSize = 20;
+      const tileCount = canvas.width / gridSize;
+      
+      let snake = [{x: 10, y: 10}];
+      let food = {x: 15, y: 15};
+      let dx = 0;
+      let dy = 0;
+      let score = 0;
+      
+      function drawGame() {
+        clearCanvas();
+        moveSnake();
+        drawSnake();
+        drawFood();
+        checkGameEnd();
+      }
+      
+      function clearCanvas() {
+        ctx.fillStyle = '#1a1b27';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+      }
+      
+      function drawSnake() {
+        ctx.fillStyle = '#61dafb';
+        snake.forEach(segment => {
+          ctx.fillRect(segment.x * gridSize, segment.y * gridSize, gridSize - 2, gridSize - 2);
         });
+      }
+      
+      function moveSnake() {
+        const head = {x: snake[0].x + dx, y: snake[0].y + dy};
+        snake.unshift(head);
         
-        // Initialize the game
+        if (head.x === food.x && head.y === food.y) {
+          score += 10;
+          document.getElementById('score').textContent = score;
+          generateFood();
+        } else {
+          snake.pop();
+        }
+      }
+      
+      function drawFood() {
+        ctx.fillStyle = '#ff6b6b';
+        ctx.fillRect(food.x * gridSize, food.y * gridSize, gridSize - 2, gridSize - 2);
+      }
+      
+      function generateFood() {
+        food = {
+          x: Math.floor(Math.random() * tileCount),
+          y: Math.floor(Math.random() * tileCount)
+        };
+      }
+      
+      function checkGameEnd() {
+        const head = snake[0];
+        if (head.x < 0 || head.x >= tileCount || head.y < 0 || head.y >= tileCount) {
+          resetGame();
+        }
+        
+        for (let i = 1; i < snake.length; i++) {
+          if (head.x === snake[i].x && head.y === snake[i].y) {
+            resetGame();
+          }
+        }
+      }
+      
+      function resetGame() {
+        snake = [{x: 10, y: 10}];
+        dx = 0;
+        dy = 0;
+        score = 0;
+        document.getElementById('score').textContent = score;
         generateFood();
-        drawGame();
-        setInterval(drawGame, 150);
+      }
+      
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowUp' || e.key === 'w' || e.key === 'W') {
+          if (dy !== 1) { dx = 0; dy = -1; }
+        } else if (e.key === 'ArrowDown' || e.key === 's' || e.key === 'S') {
+          if (dy !== -1) { dx = 0; dy = 1; }
+        } else if (e.key === 'ArrowLeft' || e.key === 'a' || e.key === 'A') {
+          if (dx !== 1) { dx = -1; dy = 0; }
+        } else if (e.key === 'ArrowRight' || e.key === 'd' || e.key === 'D') {
+          if (dx !== -1) { dx = 1; dy = 0; }
+        }
       });
+      
+      setInterval(drawGame, 100);
     </script>
   </details>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffc0cb,100:ff69b4&height=80&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </div>
