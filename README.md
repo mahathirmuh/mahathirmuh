@@ -94,7 +94,7 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mahathirmuh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahathirmuh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathirmuh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -104,11 +104,11 @@ I'm a **Full Stack Developer Specialist** passionate about creating elegant, sec
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahathirmuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahathirmuh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Focus
